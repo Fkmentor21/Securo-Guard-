@@ -1,0 +1,1 @@
+download model from huggingface and place it in this directory in order to access the model.
